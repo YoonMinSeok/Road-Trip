@@ -1,4 +1,4 @@
-import "../styles/globals.css";
+import "../styles/reset.css";
 import { wrapper } from "../store";
 
 function MyApp({ Component, pageProps }) {
